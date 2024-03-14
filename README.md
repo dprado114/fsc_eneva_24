@@ -1,4 +1,4 @@
-Descrição os arquivos:
+Descrição dos arquivos:
 
 Diretório principal:
 1) fsc_eneva_report.html : EDA report em html.
